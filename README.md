@@ -2,7 +2,8 @@
 
 ## Hello! :wave: Welcome to my Profile
 
-Linkedin Badge Gmail Badge
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 
 - :sparkling_heart: Technologs: HTML5, CSS3, JavaScript(and ES6+) and Python
 
