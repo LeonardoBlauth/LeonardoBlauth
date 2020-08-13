@@ -4,12 +4,10 @@
 
 :email: Contact me at leonardo.blauth@outlook.com or l.blauth00@gmail.com
 
-
 - :books: I'm graduating in Computer Engeniring at the Pontifícia Universidade Católica do Paraná
 
-- :notebook: I started programming in 2019
-
-
+- :computer: I started programming in 2019
+#
 - :sparkling_heart: Technologs: HTML5, CSS3, JavaScript(and ES6+) and Python
 
 - :ok: Brief Experience: Java and C++
