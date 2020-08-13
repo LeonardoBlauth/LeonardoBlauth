@@ -1,6 +1,4 @@
-# Leonardo Blauth :man_technologist:
-
-## Hello! :wave: Welcome to my Profile
+# Hello! :wave: Welcome to my Profile
 
 - :books: I'm graduating in Computer Engeniring at the Pontifícia Universidade Católica do Paraná
 
