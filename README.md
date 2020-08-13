@@ -1,12 +1,13 @@
-### Hi there 👋
+# Leonardo Blauth :man_technologist:
 
-- 💙 Techs: HTML5, CSS3, JavaScript(and ES6+) and Python
 
-- 🔛 Brief experience: PHP, Java and C++
+- 💙 Technologs: HTML5, CSS3, JavaScript(and ES6+) and Python
 
-- 💡 Frameworks, libs and utilities: React.js, Node.js, TypeScript, JSX, jQuery,Numpy, Pandas, Matplotlib, Seaborn, Plotly e
+- 🔛 Brief Experience: PHP, Java and C++
+
+- 💡 Frameworks, Libs and Utilities: React.js, Node.js, TypeScript, JSX, jQuery,Numpy, Pandas, Matplotlib, Seaborn, Plotly e
 Cufflinks
 
 - 🔐 Database: MySQL, SQLServer, Oracle, SQLite and Access
 
-- 📫 How to reach me: leonardo.blauth@outlook.com
+- :email: How to reach me: leonardo.blauth@outlook.com
