@@ -2,7 +2,7 @@
 
 ## Hello! :wave: Welcome to my Profile
 
-### :email: How to reach me: leonardo.blauth@outlook.com
+### :email: leonardo.blauth@outlook.com
 
 - :sparkling_heart: Technologs: HTML5, CSS3, JavaScript(and ES6+) and Python
 
