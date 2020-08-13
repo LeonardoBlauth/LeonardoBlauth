@@ -1,6 +1,6 @@
 # Hello! :wave: Welcome to my Profile
 
-- :books: I'm graduating in Computer Engeniring at the Pontifícia Universidade Católica do Paraná
+- :books: I'm graduating in Computer Engineering at the Pontifícia Universidade Católica do Paraná
 
 - :computer: I started programming in 2019
 
