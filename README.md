@@ -2,7 +2,7 @@
 
 ## Hello! :wave: Welcome to my Profile
 
-### :email: leonardo.blauth@outlook.com
+### :email: Contact me at leonardo.blauth@outlook.com
 
 - :sparkling_heart: Technologs: HTML5, CSS3, JavaScript(and ES6+) and Python
 
@@ -13,6 +13,6 @@ Cufflinks
 
 - :closed_lock_with_key: Database: MySQL, SQLServer, Oracle, SQLite and Access
 
-- :stuck_out_tongue_closed_eyes: I really like to learn, I'm always after knowledge
+- :stuck_out_tongue_closed_eyes: I really like to learn and I'm always looking for knowledge
 
 - :earth: And I also like to travel
