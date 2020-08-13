@@ -2,7 +2,7 @@
 
 ## Hello! :wave: Welcome to my Profile
 
-:email: Contact me at leonardo.blauth@outlook.com
+Linkedin Badge Gmail Badge
 
 - :sparkling_heart: Technologs: HTML5, CSS3, JavaScript(and ES6+) and Python
 
