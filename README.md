@@ -1,7 +1,10 @@
 # Leonardo Blauth :man_technologist:
 
 ## Hello! :wave: Welcome to my Profile
+
 :email: Contact me at leonardo.blauth@outlook.com or l.blauth00@gmail.com
+
+:books: I'm graduating in Computer Engeniring at the Pontifícia Universidade Católica do Paraná
 
 - :sparkling_heart: Technologs: HTML5, CSS3, JavaScript(and ES6+) and Python
 
