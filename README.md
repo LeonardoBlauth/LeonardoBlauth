@@ -1,6 +1,6 @@
 # Hello! :wave: Welcome to my Profile
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.blauth00@gmail.com)](mailto:l.blauth00@gmail.com)           [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/leonardo-blauth-7b573a1ab)](linkedin.com/in/leonardo-blauth-7b573a1ab)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.blauth00@gmail.com)](mailto:l.blauth00@gmail.com)           [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-blauth-7b573a1ab)](https://www.linkedin.com/in/leonardo-blauth-7b573a1ab)
 
 - :books: I'm graduating in Computer Engineering at the Pontifícia Universidade Católica do Paraná
 
