@@ -6,7 +6,7 @@
 
 ## I'm a Student and Developer!
 - 🌱 I'm currently learning everything I can understand
-- 👯 I'm looking to collaborate with other content creators and
+- 👯 I'm looking to collaborate with other content creators
 - ⚡ Fun fact: I love to watch series
 
 ### Connect with me:
