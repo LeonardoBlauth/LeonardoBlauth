@@ -10,8 +10,6 @@
 ### Connect with me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.blauth00@gmail.com)](mailto:l.blauth00@gmail.com)           [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-blauth-7b573a1ab)](https://www.linkedin.com/in/leonardo-blauth-7b573a1ab)
 
-<br />
-
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
