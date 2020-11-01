@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoblauth&show_icons=true&locale=en&layout=compact" alt="leonardoblauth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoblauth&show_icons=true&locale=en" alt="leonardoblauth" /></p>
+
+[<img src="https://novatorem-flame.vercel.app/api/spotify" alt="Leonardo Blauth Spotify Playing" width="350" />](https://open.spotify.com/user/Easill)
