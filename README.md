@@ -34,9 +34,6 @@
   <a href="https://www.w3schools.com/php/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="40" height="40" /> 
   </a>
-  <a href="https://www.w3schools.com/mysql/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40" />
-  </a>
 </p>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -45,9 +42,16 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" alt="numpy" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" alt="pandas" width="40" height="40" />
 </p>
-<a href="https://www.java.com" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40" /> 
-</a> 
+<p align="left">
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40" /> 
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.w3schools.com/mysql/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40" />
+  </a>
+</p>
 
 <br />
 
