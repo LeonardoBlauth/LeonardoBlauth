@@ -12,24 +12,26 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/> 
 </a> 
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/> 
   </a>
-<!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /> -->
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" />
+  </a>
 </p>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/> 
   </a> 
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />
 </p>
 <a href="https://www.java.com" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40"/> 
 </a> 
 
 <br />
