@@ -11,10 +11,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.blauth00@gmail.com)](mailto:l.blauth00@gmail.com)           [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-blauth-7b573a1ab)](https://www.linkedin.com/in/leonardo-blauth-7b573a1ab)
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40" /> 
-</a> 
-<p align="left"> 
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40" /> 
+  </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40" /> 
   </a>
@@ -34,6 +34,9 @@
   <a href="https://www.w3schools.com/php/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="40" height="40" /> 
   </a>
+  <a href="https://www.w3schools.com/mysql/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40" />
+  </a>
 </p>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -47,17 +50,12 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40" /> 
   </a>
 </p>
-<p align="left">
-  <a href="https://www.w3schools.com/mysql/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40" />
-  </a>
-</p>
 
 <br />
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoblauth&show_icons=true&locale=en&layout=compact" alt="leonardoblauth" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoblauth&show_icons=true&locale=en&layout=compact" alt="leonardoblauth" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoblauth&show_icons=true&locale=en" alt="leonardoblauth" /></p>-->
 
