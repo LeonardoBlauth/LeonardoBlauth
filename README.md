@@ -8,8 +8,15 @@
   <li>⚡ Fun fact: I love to watch series
 </ul>
 
-<!-- <h3 align="center">Connect with me:</h3>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.blauth00@gmail.com)](mailto:l.blauth00@gmail.com)           [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-blauth-7b573a1ab)](https://www.linkedin.com/in/leonardo-blauth-7b573a1ab) -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="mailto:l.blauth00@gmail.com">
+    <img src="https://camo.githubusercontent.com/aece10863a5fff46606caed97a7e178cbf2240744825512e0363d67aff9589bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a616c65786a6f736573696c7661746940676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:alexjosesilvati@gmail.com" style="max-width:100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-blauth-7b573a1ab">
+    <img src="https://camo.githubusercontent.com/a71ecf5d1092a0daac6a52eba81c7b09c0efd5e9c5aaf53c3b5691a53954e402/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616c65786a6f736573696c76612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/alexjosesilva/" style="max-width:100%;">
+  </a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
