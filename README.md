@@ -1,7 +1,7 @@
 # Hi there, I'm Leonardo 👋
-<h3 align="center">
-  I'm a Student and Developer! <img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth">
-</h3>
+<h3 align="center">I'm a Student and Developer!</h3>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth"></p>
 
 <h3 align="center">About Me:</h3>
 
