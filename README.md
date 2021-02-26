@@ -39,5 +39,5 @@
 
 <p>
   <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoblauth&show_icons=true&locale=en&layout=compact" alt="leonardoblauth"></span>
-  <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoblauth&show_icons=true&locale=en" alt="leonardoblauth"></span>
+  <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=leonardoblauth&show_icons=true&locale=en" alt="leonardoblauth"></span>
 </p>
