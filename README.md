@@ -2,10 +2,11 @@
 <h3 align="center">I'm a Student and Developer!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth"></p>
-
-- 🌱 I'm currently learning everything I can understand
-- 👯 I'm looking to collaborate with other content creators
-- ⚡ Fun fact: I love to watch series
+<ul align="center">
+  <li>🌱 I'm currently learning everything I can understand
+  <li>👯 I'm looking to collaborate with other content creators
+  <li>⚡ Fun fact: I love to watch series
+</ul>
 
 <!-- <h3 align="center">Connect with me:</h3>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.blauth00@gmail.com)](mailto:l.blauth00@gmail.com)           [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-blauth-7b573a1ab)](https://www.linkedin.com/in/leonardo-blauth-7b573a1ab) -->
@@ -37,7 +38,7 @@
 
 <br />
 
-<p>
+<p align="center">
   <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoblauth&show_icons=true&locale=en&layout=compact" alt="leonardoblauth"></span>
   <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=leonardoblauth&show_icons=true&locale=en" alt="leonardoblauth"></span>
 </p>
