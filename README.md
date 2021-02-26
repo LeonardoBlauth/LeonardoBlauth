@@ -49,13 +49,11 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" alt="pandas" width="40" height="40" />
 </p>
 
-<hr>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="java" width="40" height="40" /> 
 </p>
 
-<br />
+<hr>
 
 <p align="center">
   <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoblauth&show_icons=true&locale=en&layout=compact" alt="leonardoblauth"></span>
