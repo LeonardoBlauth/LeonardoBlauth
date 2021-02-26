@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth"></p>
 
-<h3 align="center">About Me:</h3>
+<h3 align="center"><strong>About Me:</strong></h3>
   <p align="center">🌱 I'm currently learning everything I can understand</p>
   <p align="center">👯 I'm looking to collaborate with other content creators</p>
   <p align="center">⚡ Fun fact: I love to watch series</p>
