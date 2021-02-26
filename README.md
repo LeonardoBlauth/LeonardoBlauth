@@ -1,13 +1,4 @@
 # Hi there, I'm Leonardo 👋
-<h3 align="center">I'm a Student and Developer!</h3>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth"></p>
-
-<h3 align="center">About Me:</h3>
-
-<p align="center">🌱 I'm currently learning everything I can understand</p>
-<p align="center">👯 I'm looking to collaborate with other content creators</p>
-<p align="center">⚡ Fun fact: I love to watch series</p>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -20,6 +11,14 @@
     <img src="https://camo.githubusercontent.com/a71ecf5d1092a0daac6a52eba81c7b09c0efd5e9c5aaf53c3b5691a53954e402/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616c65786a6f736573696c76612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/alexjosesilva/" style="max-width:100%;">
   </a>
 </p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth"></p>
+
+<h3 align="center">I'm a Student and Developer!</h3>
+
+<p align="center">🌱 I'm currently learning everything I can understand</p>
+<p align="center">👯 I'm looking to collaborate with other content creators</p>
+<p align="center">⚡ Fun fact: I love to watch series</p>
 
 <h3 align="center">Languages and Tools:</h3>
 
