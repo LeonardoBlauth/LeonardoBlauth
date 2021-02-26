@@ -2,11 +2,11 @@
 <h3 align="center">I'm a Student and Developer!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth"></p>
-<ul align="center">
-  <li>🌱 I'm currently learning everything I can understand
-  <li>👯 I'm looking to collaborate with other content creators
-  <li>⚡ Fun fact: I love to watch series
-</ul>
+
+<h3 align="center">About Me:</h3>
+  <p align="center">🌱 I'm currently learning everything I can understand</p>
+  <p align="center">👯 I'm looking to collaborate with other content creators</p>
+  <p align="center">⚡ Fun fact: I love to watch series</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
