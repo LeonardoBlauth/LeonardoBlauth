@@ -1,4 +1,7 @@
-# Hi there, I'm Leonardo 👋
+<h1> 
+  Hi there, I'm Leonardo 👋 
+  <img align="right" src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth">
+</h1> 
 
 <h3 align="center">Connect with me:</h3>
 
@@ -12,7 +15,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth"></p>
+<hr>
 
 <h3 align="center">I'm a Student and Developer!</h3>
 
