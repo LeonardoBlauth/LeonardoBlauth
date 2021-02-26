@@ -1,7 +1,7 @@
 # Hi there, I'm Leonardo 👋
 <h3 align="center">I'm a Student and Developer!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardoblauth&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoblauth"></p>
 
 - 🌱 I'm currently learning everything I can understand
 - 👯 I'm looking to collaborate with other content creators
@@ -37,12 +37,6 @@
 
 <br />
 
----
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoblauth&show_icons=true&locale=en&layout=compact" alt="leonardoblauth"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoblauth&show_icons=true&locale=en&layout=compact" alt="leonardoblauth" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoblauth&show_icons=true&locale=en" alt="leonardoblauth" /></p>-->
-
-<!--
-[<img src="https://novatorem-flame.vercel.app/api/spotify" alt="Leonardo Blauth Spotify Playing" width="350" />](https://open.spotify.com/user/Easill)
--->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoblauth&show_icons=true&locale=en" alt="leonardoblauth"></p>
