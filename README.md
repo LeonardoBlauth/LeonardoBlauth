@@ -19,7 +19,7 @@
 
 <h3 align="center">I'm a Student and Developer!</h3>
 
-<p align="center">🌱 I'm currently learning everything I can understand</p>
+<p align="center">🌱 I'm currently learning Desktop automation</p>
 <p align="center">👯 I'm looking to collaborate with other content creators</p>
 <p align="center">⚡ Fun fact: I love to watch series</p>
 
